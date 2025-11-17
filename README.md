@@ -8,7 +8,7 @@ This website is a basic front-end conference app that allows users to log in as 
 
 ## Live Demo
 
-Hosted on [Netlify](example.com)
+Hosted on [Netlify](https://atlasx-react-app.netlify.app)
 
 
 ## Deployment Notes
