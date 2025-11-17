@@ -17,19 +17,7 @@ This website is built with Vite and deployed to Netlify.
 
 For proper routing, a `_redirects` file is included in `public/` to handle SPA navigation.
 
-
-## Features
-
-- Uses localStorage to maintain user status across pages
-- Handles errors in a user-friendly way
-- Permissions vary across users based on role
-## Tech Stack
-
-- HTML, JavaScript
-- React.js, Bootstrap
-
-
-## Usage
+## Running Locally
 
 Clone the project
 
@@ -53,7 +41,21 @@ Start the server
 ```bash
   npm run dev
 ```
-Once the application has opened, you can log in as a user or an admin.
+
+
+## Features
+
+- Uses localStorage to maintain user status across pages
+- Handles errors in a user-friendly way
+- Permissions vary across users based on role
+## Tech Stack
+
+- HTML, JavaScript
+- React.js, Bootstrap
+
+## Usage
+
+To log in, click the `Login` button in the header.
 
 #### User Credentials:
 Username: `user@example.com`
@@ -63,6 +65,7 @@ Password: `testing123`
 Username: `admin@example.com`
 Password: `testing123`
 
+To add or remove conference sessions, log in with the admin credentials.
 
 ## How It Works
 
