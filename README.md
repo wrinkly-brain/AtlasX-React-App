@@ -1,5 +1,5 @@
 
-# Web Development Cookbook
+# AtlasX-React-App
 
 This website is a basic front-end conference app that allows users to log in as either a user or an admin, both having varying permissions.
 
