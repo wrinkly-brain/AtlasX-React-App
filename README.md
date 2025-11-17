@@ -17,7 +17,7 @@ This website is built with Vite and deployed to Netlify.
 
 For proper routing, a `_redirects` file is included in `public/` to handle SPA navigation.
 
-## Running Locally
+## Run Locally
 
 Clone the project
 
